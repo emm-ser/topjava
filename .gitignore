@@ -6,3 +6,7 @@ log
 
 
 
+*.patch
+/ReleaseNotes.md
+/description.md
+/cv.md
