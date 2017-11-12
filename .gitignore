@@ -10,3 +10,6 @@ log
 /ReleaseNotes.md
 /description.md
 /cv.md
+lib
+lib/
+src/main/webapp/
